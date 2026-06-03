@@ -65,3 +65,7 @@ yarn-error.log*
 
 # RSpec
 /backend/.rspec_status
+
+# Ruby machine specific dependencies
+/backend/.bundle
+/backend/vendor/bundle
